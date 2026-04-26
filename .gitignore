@@ -1,0 +1,33 @@
+# Môi trường ảo (Tuyệt đối không đẩy lên Git)
+venv/
+venv311/
+venv_gpu/
+code_sua/venv_gpu/
+env/
+.env
+
+# Rác hệ thống Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dữ liệu Data (Nếu nặng quá thì chặn, nếu nhẹ thì mở)
+data/
+datasets/
+
+# File trọng số Model (Có thể nặng)
+*.pt
+*.pth
+*.h5
+*.keras
+
+# Cấu hình IDE (VSCode, PyCharm)
+.idea/
+.vscode/
+
+# Rác Jupyter Notebook
+.ipynb_checkpoints/
+
+# Rác hệ điều hành
+.DS_Store
+Thumbs.db
