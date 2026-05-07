@@ -1,0 +1,13 @@
+--- BẰNG CHỨNG PHÂN PHỐI DỮ LIỆU NON-IID (alpha=0.1, Seed=42) ---
+Tập dữ liệu này được DÙNG CHUNG CỐ ĐỊNH cho cả FedAvg, FedProx và Adaptive.
+
+Client  1 | Tổng:   30945 mẫu | Phân phối: { Nhãn 0: 11614, Nhãn 1: 19331 }
+Client  2 | Tổng:     232 mẫu | Phân phối: { Nhãn 1: 212, Nhãn 3: 17, Nhãn 4: 3 }
+Client  3 | Tổng:   22187 mẫu | Phân phối: { Nhãn 1: 21894, Nhãn 3: 293 }
+Client  4 | Tổng:   31926 mẫu | Phân phối: { Nhãn 0: 8, Nhãn 1: 160, Nhãn 2: 9505, Nhãn 3: 22253 }
+Client  5 | Tổng:   24651 mẫu | Phân phối: { Nhãn 0: 24198, Nhãn 1: 70, Nhãn 2: 1, Nhãn 3: 382 }
+Client  6 | Tổng:   27266 mẫu | Phân phối: { Nhãn 1: 6712, Nhãn 2: 361, Nhãn 3: 18646, Nhãn 4: 1547 }
+Client  7 | Tổng:   90957 mẫu | Phân phối: { Nhãn 0: 14255, Nhãn 1: 3, Nhãn 2: 37607, Nhãn 3: 2971, Nhãn 4: 36121 }
+Client  8 | Tổng:   18811 mẫu | Phân phối: { Nhãn 0: 1167, Nhãn 1: 6807, Nhãn 2: 10267, Nhãn 4: 570 }
+Client  9 | Tổng:   29363 mẫu | Phân phối: { Nhãn 0: 6496, Nhãn 3: 13175, Nhãn 4: 9692 }
+Client 10 | Tổng:   12397 mẫu | Phân phối: { Nhãn 0: 9, Nhãn 1: 2558, Nhãn 2: 6, Nhãn 3: 10, Nhãn 4: 9814 }

@@ -1,7 +1,8 @@
-# Dependencies cho FL-LSTM IDS (Anwar et al. 2025)
+# Dependencies cho FL-LSTM IDS
+# Framework: PyTorch (thay thế TensorFlow)
+torch>=2.0
 numpy>=1.21
 pandas>=1.3
-tensorflow>=2.10
 scikit-learn>=1.0
 imbalanced-learn>=0.10
 matplotlib>=3.5

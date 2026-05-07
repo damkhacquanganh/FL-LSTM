@@ -1,9 +1,11 @@
+import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, mean_squared_error
 
-from preprocess_custom import preprocess_data
+from src.preprocessing import preprocess_data
 from main_pytorch import load_dataset, auto_detect_target
 
 def evaluate_sklearn_model(model, X_test, y_test, name="Model"):

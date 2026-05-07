@@ -1,6 +1,6 @@
 import torch
-from model_pytorch import clone_model_with_weights_pytorch, get_model_weights_pytorch, set_model_weights_pytorch
-from training_pytorch import train_client_pytorch
+from .model import clone_model_with_weights_pytorch, get_model_weights_pytorch, set_model_weights_pytorch
+from .training import train_client_pytorch
 
 def weighted_fedavg_pytorch(client_weights, client_sizes):
     """
