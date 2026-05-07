@@ -34,7 +34,7 @@ cd code_sua
 python -m experiments.run_adaptive_fedprox
 ```
 
-## Demo bảo vệ luận văn
+## Demo bảo vệ đồ án
 
 ```bash
 cd code_sua
@@ -42,7 +42,7 @@ python -m demo.demo_prototype_ids
 ```
 
 ## Tác giả
-- Học viên: [Tên sinh viên]
+- Học viên: Đàm Khắc Quang Anh
 - GVHD: PGS.TS. Nguyễn Thị Mỹ Bình
 - Đơn vị: Trường Đại học Công nghiệp Hà Nội — Khoa CNTT — 2025
 
